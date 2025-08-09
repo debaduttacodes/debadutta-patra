@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @debadutta2015
-- 👀 I’m interested in learning how to develop programs, how to code and many other fun stuffs.
-- 🌱 I’m currently learning Web Development & C programming!
-
-
-
-
+- 👋 Hi, I’m @debaduttapatra  
+- 👀 I’m passionate about building software, solving problems, and exploring new technologies.  
+- 🌱 I’m currently learning Java, Full-Stack Web Development (MERN + modern tools), and Data Structures & Algorithms (DSA).  
+- 💻 I’ve completed C and C++ and now focusing on advanced backend, frontend, and algorithmic problem-solving.  
+- 🚀 My goal is to create impactful projects, contribute to open-source, and grow as a skilled developer.  
